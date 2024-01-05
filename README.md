@@ -22,3 +22,8 @@
      - Predicate
      - Function
      - Supplier 
+     
+
+## References
+   - Udemy Video - https://xebia.udemy.com/course/functional-programming-with-java/learn/lecture/16544464#overview
+   - Udemy video github - https://github.com/in28minutes/functional-programming-with-java
